@@ -40,6 +40,6 @@ export default function convertBytesToHuman(bytes) {
     return bytes.toFixed(2) + ' ' + units;
   }
   else {
-    return "Wrong input! Must be positive number"
+    return false;
   }
 }
