@@ -16,7 +16,7 @@ export default function convertBytesToHuman(bytes) {
   var units;
   var devision_count = 0;
   if (bytes === parseFloat(bytes, 10) && bytes > 0) {
-    while (bytes >= 1024) {
+    while (bytes >= 1024 && devision_count < 4) {
       bytes /= 1024;
       devision_count++;
     }
@@ -33,7 +33,7 @@ export default function convertBytesToHuman(bytes) {
       case 3:
         units = 'GB';
         break;
-      default:
+      case 4:
         units = 'TB';
         break;
     }

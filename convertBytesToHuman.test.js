@@ -24,4 +24,5 @@ test('Возвращает корректное значение для чисе
   expect(convertBytesToHuman(123456789)).toBe('117.74 MB');
   expect(convertBytesToHuman(123456789012)).toBe('114.98 GB');
   expect(convertBytesToHuman(9879)).toBe('9.65 KB');
+  expect(convertBytesToHuman(123456789012456123)).toBe('112283.30 TB');
 });
