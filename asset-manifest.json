@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2019-2-Track-Frontend-A-Kalmasova/static/css/main.b4eae362.chunk.css",
+    "main.js": "/2019-2-Track-Frontend-A-Kalmasova/static/js/main.4c058e5a.chunk.js",
+    "main.js.map": "/2019-2-Track-Frontend-A-Kalmasova/static/js/main.4c058e5a.chunk.js.map",
+    "runtime-main.js": "/2019-2-Track-Frontend-A-Kalmasova/static/js/runtime-main.73197591.js",
+    "runtime-main.js.map": "/2019-2-Track-Frontend-A-Kalmasova/static/js/runtime-main.73197591.js.map",
+    "static/js/2.fc796bdb.chunk.js": "/2019-2-Track-Frontend-A-Kalmasova/static/js/2.fc796bdb.chunk.js",
+    "static/js/2.fc796bdb.chunk.js.map": "/2019-2-Track-Frontend-A-Kalmasova/static/js/2.fc796bdb.chunk.js.map",
+    "index.html": "/2019-2-Track-Frontend-A-Kalmasova/index.html",
+    "precache-manifest.6c9284f812e84adb9ff5364431713021.js": "/2019-2-Track-Frontend-A-Kalmasova/precache-manifest.6c9284f812e84adb9ff5364431713021.js",
+    "service-worker.js": "/2019-2-Track-Frontend-A-Kalmasova/service-worker.js",
+    "static/css/main.b4eae362.chunk.css.map": "/2019-2-Track-Frontend-A-Kalmasova/static/css/main.b4eae362.chunk.css.map",
+    "static/media/logo.svg": "/2019-2-Track-Frontend-A-Kalmasova/static/media/logo.795fb555.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73197591.js",
+    "static/js/2.fc796bdb.chunk.js",
+    "static/css/main.b4eae362.chunk.css",
+    "static/js/main.4c058e5a.chunk.js"
+  ]
+}
