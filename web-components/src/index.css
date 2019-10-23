@@ -39,10 +39,6 @@ body {
     width: 100%
   }
 
-.sticky + .content {
-    padding-top: 102px;
-  }
-
 /* Chat containers */
 .container {
     border: 2px solid #dedede;
@@ -92,3 +88,5 @@ body {
     float: left;
     color: #999;
   }
+
+  
